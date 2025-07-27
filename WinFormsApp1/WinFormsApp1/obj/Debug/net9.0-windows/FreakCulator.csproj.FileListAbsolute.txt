@@ -1,0 +1,7 @@
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.Properties.Resources.resources
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.csproj.GenerateResource.cache
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.AssemblyInfoInputs.cache
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.AssemblyInfo.cs
+C:\Users\Tird\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\FreakCulator.csproj.CoreCompileInputs.cache
